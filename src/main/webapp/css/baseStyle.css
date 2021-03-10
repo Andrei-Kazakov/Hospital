@@ -1,0 +1,40 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    text-align: center;
+    background-color: #c9ddda;
+}
+
+input[type=text], input[type=password] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: auto;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button.addButton {
+    float: left;
+}
+
+.clickAbleDiv {
+    text-decoration: none;
+    color: #000;
+}

@@ -1,0 +1,12 @@
+.clientsDiv {
+    border: 1px solid #333;
+    box-shadow: 5px 5px 3px #444;
+    margin: 10px 0;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #ccf1ff, #bce1ff 40%, #a8e0ff);
+}
+
+.clientForm {
+    margin-left: 40%;
+    width: fit-content;
+}
